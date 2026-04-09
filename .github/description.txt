@@ -1,0 +1,1 @@
+full-stack web application developed as part of a 10-day intensive workshop conducted by Atom Company. The workshop covered everything from Python basics to full-stack development, enabling us to build and present a complete working project.
